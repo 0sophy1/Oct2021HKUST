@@ -1,6 +1,7 @@
 # Oct2021HKUST
 
 Materials for the speical lecture on quantum computing (22, 29, Oct) at HKUST(Hong Kong University of Science and Technology)
+(lecture link or description need to be added)
 
 - Host: Prof. Gyu-Boong Jo,https://ultracold.ust.hk/ 
 - Instructor: Soyoung (Sophy) Shin, 
@@ -8,7 +9,7 @@ Materials for the speical lecture on quantum computing (22, 29, Oct) at HKUST(Ho
   - Research Scientist of Cambridge Quantum Computing Japan
   - Qiskit Advocate
 - Support:  
-    -   TA, HKUST
+    -   TA, HKUST (TA info needed)
     -   Inho Choi, Undergraduate, HKUST / Qiskit Advocate
  
 

@@ -3,7 +3,10 @@
 Materials for the speical lecture on quantum computing (22, 29, Oct) at HKUST(Hong Kong University of Science and Technology)
 
 - Host: Prof. Gyu-Boong Jo,https://ultracold.ust.hk/ 
-- Instructor: Soyoung (Sophy) Shin, PhD Candidat of Seoul National University / Research Scientist of Cambridge Quantum Computing Japan / Qiskit Advocate
+- Instructor: Soyoung (Sophy) Shin, 
+ - PhD Candidat of Seoul National University
+ - Research Scientist of Cambridge Quantum Computing Japan
+ - Qiskit Advocate
 - Support: Inho Choi, Undergraduate, HKUST / Qiskit Advocate
  
 # Pre-requisist

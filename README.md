@@ -45,7 +45,11 @@ Afterwards install the Qiskit package via below command, instead of that provide
 pip install qiskit[all]
 ```
 
-(if you are using zsh(Mac OS, etc), the last part needs to be in quotes as "pip install 'qiskit[all]'").
+(if you are using zsh(Mac OS, etc), the last part needs to be in quotes as:)
+
+```
+pip install 'qiskit[all]'
+```
 
 Throughout the tutorial we will work with [Jupyter Notebooks](https://jupyter.org/ "Jupyter") which can be installed via 
 

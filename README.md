@@ -9,8 +9,8 @@ Materials for the speical lecture on quantum computing (22, 29, Oct) at HKUST(Ho
   - Research Scientist of Cambridge Quantum Computing Japan
   - Qiskit Advocate
 - Support:  
-    -   TA, HKUST (TA info needed)
-    -   Inho Choi, Undergraduate, HKUST / Qiskit Advocate
+    -   Zipeng Wu, TA, HKUST
+    -   Inho Choi, HKUST, Qiskit Advocate
  
 
 # Before we go:

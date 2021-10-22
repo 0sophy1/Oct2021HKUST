@@ -7,7 +7,7 @@ Materials for the speical lecture on quantum computing (22, 29, Oct) at HKUST(Ho
 - Instructor: Soyoung (Sophy) Shin, 
   - PhD Candidat of Seoul National University
   - Research Scientist of Cambridge Quantum Computing Japan
-  - Qiskit Advocate
+  - Qiskit Advocate / Qiskit Localization Co-Lead ( Korean)
 - Support:  
     -   Zipeng Wu, TA, HKUST
     -   Inho Choi, HKUST, Qiskit Advocate
